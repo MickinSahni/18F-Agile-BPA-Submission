@@ -3,7 +3,7 @@ This web-based application enables users to search and filter adverse reactions 
 
 ![marketing] (https://github.com/akulasainath/18frepo/blob/master/18F%20Evidence/Marketing%20One-Pager.jpg)
 
-For a closer look at this Marketing 1-pager, click[ ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FMarketing%2520One-Pager.jpg&sa=D&sntz=1&usg=AFQjCNGUndBwUq4hUEt5hNxA6X3qnMEaLw)[here](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FMarketing%2520One-Pager.jpg&sa=D&sntz=1&usg=AFQjCNGUndBwUq4hUEt5hNxA6X3qnMEaLw).
+*For a closer look at this Marketing 1-pager, click[ ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FMarketing%2520One-Pager.jpg&sa=D&sntz=1&usg=AFQjCNGUndBwUq4hUEt5hNxA6X3qnMEaLw)[here](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FMarketing%2520One-Pager.jpg&sa=D&sntz=1&usg=AFQjCNGUndBwUq4hUEt5hNxA6X3qnMEaLw).*
 
 ##About Ventera
 Ventera Corporation is a small business, delivering high-value technology outcomes to both the private sector and the federal government for nearly two decades. Two of our largest federal clients—the USDA Food and Nutrition Service and the Department of Homeland Security—have embraced our Agile Scrum methodology as a proven means of ensuring valuable, user-centric solutions.
