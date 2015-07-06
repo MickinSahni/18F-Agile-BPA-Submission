@@ -1,5 +1,4 @@
 ##Summary:
-========
 This web-based application enables users to search and filter adverse reactions related to the intake of specific drugs based off publicly-available FDA Drug Incident Reports. The goal is to both help people understand what adverse reactions may occur and arm them with information to ask the right questions to their medical providers. The application consumes a public API of drug interactions and provides a robust means of searching one or more drugs, while displaying potential reactions in an easy-to-understand collection of graphics, tables and references to NIH definitions of drugs and reactions.
 
 ![marketing] (https://github.com/akulasainath/18frepo/blob/master/18F%20Evidence/Marketing%20One-Pager.jpg)
@@ -7,11 +6,9 @@ This web-based application enables users to search and filter adverse reactions 
 For a closer look at this Marketing 1-pager, click[ ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FMarketing%2520One-Pager.jpg&sa=D&sntz=1&usg=AFQjCNGUndBwUq4hUEt5hNxA6X3qnMEaLw)[here](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FMarketing%2520One-Pager.jpg&sa=D&sntz=1&usg=AFQjCNGUndBwUq4hUEt5hNxA6X3qnMEaLw).
 
 ##About Ventera
-=============
 Ventera Corporation is a small business, delivering high-value technology outcomes to both the private sector and the federal government for nearly two decades. Two of our largest federal clients—the USDA Food and Nutrition Service and the Department of Homeland Security—have embraced our Agile Scrum methodology as a proven means of ensuring valuable, user-centric solutions.
 
 ##Project Approach
-================
 When the RFQ was released, the selected Product Manager, Swati Khandewale, had the authority to make both budget and implementation decisions regarding the prototype.
 
 The Product Owner (PO) team used a lean approach when initially presented with the RFQ prompt. The first step in that approach involved defining both a problem hypothesis and a customer hypothesis. Assumptions surrounding those hypotheses were then validated or invalidated through analysis of data provided in OpenFDA APIs and conversations with potential users. Our team then determined a goal for the prototype and concluded a high-level user story:
@@ -51,7 +48,6 @@ The Ventera team applied many Agile best practices from a technical perspective.
   * GitHub was used for Configuration Management.
 
 ##Open Source Applications:
-=========================
 This prototype utilizes multiple open source frontend and backend technologies, including 10+ modern technologies that had the first stable release in the past 5 years.  All technology used to create the prototype is openly licensed and free of charge:
 
 * [ ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2F&sa=D&sntz=1&usg=AFQjCNHReqsuKT6C86HcgL4TbSevF24rxQ)[GitHub](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2F&sa=D&sntz=1&usg=AFQjCNHReqsuKT6C86HcgL4TbSevF24rxQ)
@@ -93,7 +89,6 @@ For additional description of each tool, see the[ ](https://www.google.com/url?q
 
 
 ##Infrastructure as a Service:
-============================
 This prototype is deployed using Amazon Web Services (AWS) Infrastructure as a Service for compute capacity in the cloud. The following are all AWS technologies that were used:
 
 * [ ](http://www.google.com/url?q=http%3A%2F%2Faws.amazon.com%2Fec2%2F&sa=D&sntz=1&usg=AFQjCNGdVfqGba8hJnfnihNs2-MtB2HynA)[AWS EC2 Server](http://www.google.com/url?q=http%3A%2F%2Faws.amazon.com%2Fec2%2F&sa=D&sntz=1&usg=AFQjCNGdVfqGba8hJnfnihNs2-MtB2HynA) Instances running[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.ubuntu.com%2Fserver&sa=D&sntz=1&usg=AFQjCNH_gAG3c5ND0EF3m09_PD42-IzNmw)[Ubuntu](http://www.google.com/url?q=http%3A%2F%2Fwww.ubuntu.com%2Fserver&sa=D&sntz=1&usg=AFQjCNH_gAG3c5ND0EF3m09_PD42-IzNmw)
@@ -105,7 +100,6 @@ This prototype is deployed using Amazon Web Services (AWS) Infrastructure as a S
 * [ ](http://www.google.com/url?q=http%3A%2F%2Faws.amazon.com%2Froute53%2F&sa=D&sntz=1&usg=AFQjCNFOq11_4vvmuny6_ZalngX20thp-A)[AWS Route 53](http://www.google.com/url?q=http%3A%2F%2Faws.amazon.com%2Froute53%2F&sa=D&sntz=1&usg=AFQjCNFOq11_4vvmuny6_ZalngX20thp-A)
 
 ##Deployment Process
-==================
 1. In order to run our application, an HTTP web server must be installed on your system. Download and installation instructions, per your specific environment, can be found at[ ](http://www.google.com/url?q=http%3A%2F%2Fhttpd.apache.org%2Fdownload.cgi%23apache24&sa=D&sntz=1&usg=AFQjCNFJsyw7U-goTLitWegXm5dXDQ5nYQ)[http://httpd.apache.org/download.cgi\#apache24](http://www.google.com/url?q=http%3A%2F%2Fhttpd.apache.org%2Fdownload.cgi%23apache24&sa=D&sntz=1&usg=AFQjCNFJsyw7U-goTLitWegXm5dXDQ5nYQ).
 
   a) For our local deployment we used Apache HTTP 2.4 ([http://httpd.apache.org/docs/2.4/](http://www.google.com/url?q=http%3A%2F%2Fhttpd.apache.org%2Fdocs%2F2.4%2F&sa=D&sntz=1&usg=AFQjCNH1qT11A09mmobi6yBvS7RXNbBR7Q)).
@@ -131,11 +125,9 @@ This prototype is deployed using Amazon Web Services (AWS) Infrastructure as a S
 5. If deployed correctly using the default Apache configuration settings, the application should be available at:[ ](http://www.google.com/url?q=http%3A%2F%2Flocalhost%2Fweb%2F&sa=D&sntz=1&usg=AFQjCNGODMRsv_wGhWUgdZRYd5L0NMZioQ)[http://localhost:80/web/](http://www.google.com/url?q=http%3A%2F%2Flocalhost%2Fweb%2F&sa=D&sntz=1&usg=AFQjCNGODMRsv_wGhWUgdZRYd5L0NMZioQ)
 
 ##Docker Instructions
-===================
 For detailed instructions for deploying from a Docker Container, click[ ](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FDeploying%2520from%2520a%2520Docker%2520Container.docx&sa=D&sntz=1&usg=AFQjCNGhyYmw2gRI39BCpQ6sBB3Q70UyCQ)[here.](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fakulasainath%2F18frepo%2Fblob%2Fmaster%2F18F%2520Evidence%2FDeploying%2520from%2520a%2520Docker%2520Container.docx&sa=D&sntz=1&usg=AFQjCNGhyYmw2gRI39BCpQ6sBB3Q70UyCQ)
 
 Contact Information
-===================
 Chris Ford
 
 EVP, Partner
