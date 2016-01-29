@@ -1,5 +1,7 @@
 ##Summary:
-This web-based application enables users to search and filter adverse reactions related to the intake of specific drugs based off publicly-available FDA Drug Incident Reports. The goal is to both help people understand what adverse reactions may occur and arm them with information to ask the right questions to their medical providers. The application consumes a public API of drug interactions and provides a robust means of searching one or more drugs, while displaying potential reactions in an easy-to-understand collection of graphics, tables and references to NIH definitions of drugs and reactions.
+This web-based application enables users to search and filter adverse reactions related to the intake of specific drugs based off publicly-available FDA Drug Incident Reports. The goal is to both help people understand what adverse reactions may occur and arm them with information to ask the right questions to their medical providers. The application consumes a public API of drug interactions and provides a robust means of searching one or more drugs, while displaying potential reactions in an easy-to-understand collection of graphics, tables and references to NIH definitions of drugs and reactions. 
+
+Drug Reaction Research Report: http://openfda.ventera.com/web/#/
 
 ![marketing] (https://github.com/akulasainath/18frepo/blob/master/18F%20Evidence/Marketing%20One-Pager.jpg)
 
